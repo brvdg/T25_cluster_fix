@@ -2,4 +2,4 @@
 
 This is an replacement for brocken Volkswagen T25/Vanagon cluster foil.
 
-For more informations see: https://fiz-o-matic.net/blog/2018/10/05/t3-ki-leiterfolie/#more-238
+For more informations see: https://fiz-o-matic.net/t3-ki-leiterfolie/
